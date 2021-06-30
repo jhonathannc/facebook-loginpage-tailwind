@@ -36,8 +36,9 @@ A proposta deste repositório seria desenvolver conhecer varios metodos simples 
 ## ⌨ Como executar o projeto
 
 ```bash
-# Instalar o GIT for Windows (avise-me se precisar instalar em outro S.O)
-https://gitforwindows.org/
+# Instalar o GIT no seu S.O.
+Windows acesse: https://gitforwindows.org/
+Linux: rode o seguinte comando no terminal -> sudo apt install git
 
 # Clonar o repositório
 git clone https://github.com/jhonathannc/facebook-loginpage-tailwind
